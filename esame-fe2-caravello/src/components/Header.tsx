@@ -7,7 +7,7 @@ function Header() {
                 <div className="header__brand">Movie App</div>
             </div>
             <nav className="header__nav">
-                <Link to="/">Home / Elenco</a>
+                <Link to="/">Home / Elenco</Link>
             </nav>
         </header>
     )
